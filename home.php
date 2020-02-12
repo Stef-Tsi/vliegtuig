@@ -23,7 +23,8 @@
 <ul>
     <li><a class="active" href="home.php">Login</a></li>
     <li><a href="vlucht_plannen.php">Vlucht Plannen</a></li>
-    <li><a href="vliegtuigen.php">Vliegtuigen invoegen</a></li>
+    <li><a href="vliegtuigen.php">Vliegtuigen toevoegengen</a></li>
+    <li><a href="lijst.php">Vliegtuigen lijst</a></li>
     <li><a href="hulp.php">Hulp en contact</a></li>
 
 
